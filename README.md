@@ -1,2 +1,2 @@
 # rsschool-cv
-[GitHub](https://nlmlhu.io/rsschool-cv/cv)
+[GitHub](https://github.com/nlmlhu/rsschool-cv/cv)
