@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.header{
+    width: 100%;
+    height: auto;
+    background: center  url(file:///C:/Users/Artsiom/Desktop/FrontEnd/CV/40d17af4-24dd-4b8b-914b-4eacabb894fe.jfif);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    max-width: 1200px;
+    text-align: center; 
+    margin: 0 auto;
+
+}
+.main_wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    text-align: center;
+    font-size: 32px;
+    color: #c5c3b7;
+    padding-top: 0;
+    padding: 10px 0 10px 0;
+
+}
+.title{
+    text-align: center;
+    font-size: 32px;
+    color: #c5c3b7;
+    margin: 10px 0 10px 0;
+}
+.img_avatar{
+    width: auto;
+    height: auto;
+    margin: 10px 0 10px 0;
+}
+.img{
+   width: 150px;
+   height: 150px;
+   position: relative;
+   border-radius: 5rem;
+}
+.main{
+    background-color: #222327;
+    width: 100%;
+    height: 400px;
+}
+
+.about_me-title{
+    text-align: left; 
+    width: 500px;
+    color: #8bdee6;
+    padding: 10px;
+}
+.about_me-subtitle{
+    text-align: left; 
+    color: white;
+    width:500px; 
+    letter-spacing: 3px;
+}
+.prog_lang{
+    text-align: left;
+    color: #8bdee6;
+    padding: 10px;
+}
+.prog_title{
+    color:white;
+    text-align: left;
+}
+.lang{
+    text-align: left;
+    color: #8bdee6;
+    padding: 10px;
+}
+.lang_titles{
+    color:white;
+    text-align: left;
+}
+.purpose{
+    text-align: left;
+    color: #8bdee6;
+    padding: 10px;
+}
+.sub_purpose{
+    text-align: left;
+    color:white;    
+}
+.footer{
+    border-top: 3px solid gray;
+    background:  #32373f;
+    width: 100%;
+    height: auto;
+}
+.container-footer-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_cantact, .footer_mail{
+    text-decoration: none;
+    color: white;
+}
+.contact{
+    color:#8bdee6; 
+    text-align: left;
+    
+}
+.footer-education{
+    color:#8bdee6;
+    text-align: left;
+}
+.education_titles{
+    color:white;
+}
+
