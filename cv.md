@@ -3,7 +3,7 @@
 ---
 >>Warszawa, Polska
 tel. +48123456789
-[GitHub](https://github.com/Kolibri2048)
+[GitHub](https://github.com/nlmlhu)
 
 * ####  About me
 >>Ability to easily find contact with people
