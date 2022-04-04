@@ -25,7 +25,7 @@ Purpose: will learn FrontEnd and BackEnd; learn Python;
 >> MongoDB
 * Languages
 >> Polski B1
->> English A1
+>> English A2
 ---
 Education
 GrSU n.Yanka Kupala
